@@ -1,0 +1,1 @@
+ la posicion, velocidad y tiempo son de: 0 20 0 respectivamente.
